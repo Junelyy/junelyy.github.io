@@ -24,5 +24,4 @@
             padding: 20px;
             font-family: Garamond;
             color: black;
-            background-color: pink;
         }
