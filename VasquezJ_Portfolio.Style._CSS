@@ -6,7 +6,7 @@
             text-align: center;
             font-family: Garamond;
             color: black;
-            background-color: pink;
+            background-color: red;
             font-size: 40px;
             padding: 20px;
         }
@@ -15,7 +15,7 @@
             text-align: center;
             font-family: Garamond;
             color: black;
-            background-color: pink;
+            background-color: blue;
             font-size: 20px;
             padding: 10px;
         }
