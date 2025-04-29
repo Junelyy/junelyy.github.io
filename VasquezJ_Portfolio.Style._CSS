@@ -1,28 +1,27 @@
-*{
-box-sizing:border-box;
- }
+ * {
+            box-sizing: border-box;
+        }
 
+        .header {
+            text-align: center;
+            font-family: Garamond;
+            color: black;
+            background-color: pink;
+            font-size: 40px;
+            padding: 20px;
+        }
 
-* .header{
- text-align: center;
- font: Garamond;
- color: black;
- background-color:pink;
- font-size: 40px;
-}
+        .header2 {
+            text-align: center;
+            font-family: Garamond;
+            color: black;
+            background-color: pink;
+            font-size: 20px;
+            padding: 10px;
+        }
 
-
-
-* .header2{
- text-align: center;
- font: Garamond;
- color: black;
- background-color:pink;
- font-size: 20px;
-}
-
-
-
-
-* .main{
-}
+        .main {
+            padding: 20px;
+            font-family: Garamond;
+            color: black;
+        }
