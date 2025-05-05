@@ -25,3 +25,10 @@
             font-family: Garamond;
             color: black;
         }
+            .topnav {
+              font-family: Garamod;
+              font-size; 1vw;
+              background-color;rgb(100,0,125);
+              overflow; hidden;
+              vertical-align; center;
+         }
