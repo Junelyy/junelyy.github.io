@@ -5,8 +5,8 @@
 .header {
     text-align: center;
     font-family: Garamond;
-    color: black;
-    background-color: pink;
+    color: #a0568f;
+    background-color: #843c72;
     font-size: 40px;
     padding: 20px;
 }
@@ -14,8 +14,8 @@
 .header2 {
     text-align: center;
     font-family: Garamond;
-    color: black;
-    background-color: pink;
+    color: #a0568f;
+    background-color: #843c72;
     font-size: 20px;
     padding: 10px;
 }
@@ -29,19 +29,19 @@
 .topnav {
     font-family: Garamond;
     font-size: 1vw;
-    background-color: rgb(100, 0, 125);
+    background-color: #843c72;
     overflow: hidden;
     text-align: center;
     padding: 10px 0;
 }
 
 .topnav a {
-    color: white;
+    color: #a0568f;
     padding: 10px 15px;
     text-decoration: none;
     display: inline-block;
 }
 
 .topnav a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: #a0568f;
 }
