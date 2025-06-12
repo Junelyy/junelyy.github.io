@@ -5,7 +5,7 @@
 .header {
     text-align: center;
     font-family: Garamond;
-    color: #a0568f;
+    color: black;
     background-color: #843c72;
     font-size: 40px;
     padding: 20px;
@@ -14,7 +14,7 @@
 .header2 {
     text-align: center;
     font-family: Garamond;
-    color: #a0568f;
+    color: black;
     background-color: #843c72;
     font-size: 20px;
     padding: 10px;
@@ -36,7 +36,7 @@
 }
 
 .topnav a {
-    color: #a0568f;
+    color: black;
     padding: 10px 15px;
     text-decoration: none;
     display: inline-block;
