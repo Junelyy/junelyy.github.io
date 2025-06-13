@@ -8,7 +8,7 @@ One thing that really changed while I worked on this was my **homepage**. At fir
 
 If I had to do it **again,** I’d probably plan things out better before starting. I kind of *jumped into it* and had to go back and fix stuff. Next time, I’d sketch out how I want each page to look so I don’t waste time redoing things.
 
-This artifact helped me *grow* as a Computer Science student because it made me think like a real designer and developer. I had to make something from scratch, fix problems, and think about how users will experience it. I also went through the **iterative development process** which is cruical for improving my work. I also realized how **important** it is to present your work in a way that’s easy to understand.
+This artifact helped me *grow* as a *Computer Science* student because it made me think like a real designer and developer. I had to make something from scratch, fix problems, and think about how users will experience it. I also went through the **iterative development process** which is cruical for improving my work. I also realized how **important** it is to present your work in a way that’s easy to understand.
 
 If I keep working on this portfolio, I’d like to add **more projects, maybe even some code I wrote or videos of things I made**. I want it to be something I’m proud to show off.
 
